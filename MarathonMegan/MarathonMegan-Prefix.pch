@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'MarathonMegan' target in the 'MarathonMegan' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import <Parse/Parse.h>
+	#import "Constants.h"
+	#import "BaseViewController.h"
+	#import "UIView-ViewFrameGeometry.h"
+	#import "UIView+Positioning.h"
+	#import "NSDate-Utilities.h"
+	#import "UIFont+MegansFont.h"
+	#import "Utils.h"
+	#import "UIColor+MeganColors.h"
+#import "UIViewController+NavigationController.h"
+#import "UIColor+Hex.h"
+#import "DrawingHelper.h"
+
+#endif

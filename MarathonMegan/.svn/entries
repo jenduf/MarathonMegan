@@ -1,0 +1,707 @@
+10
+
+dir
+0
+https://jenduf@github.com/jenduf/MarathonMegan/trunk/MarathonMegan
+https://jenduf@github.com/jenduf/MarathonMegan
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0f1f30c5-f448-a645-1e93-ce57b7db7bff
+
+BackSegue.h
+file
+
+
+
+add
+
+main.m
+file
+
+
+
+add
+
+Storyboard.storyboard
+file
+
+
+
+add
+
+DrawingHelper.h
+file
+
+
+
+add
+
+Default@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CircleView.h
+file
+
+
+
+add
+
+Activity.h
+file
+
+
+
+add
+
+BackSegue.m
+file
+
+
+
+add
+
+NavigationViewController.h
+file
+
+
+
+add
+
+MarathonMegan-Prefix.pch
+file
+
+
+
+add
+
+DrawingHelper.m
+file
+
+
+
+add
+
+Activity.m
+file
+
+
+
+add
+
+CircleView.m
+file
+
+
+
+add
+
+FormViewController.h
+file
+
+
+
+add
+
+MainPanelViewController.h
+file
+
+
+
+add
+
+NavigationViewController.m
+file
+
+
+
+add
+
+RunViewController.h
+file
+
+
+
+add
+
+GoalsViewController.h
+file
+
+
+
+add
+
+UIView+Positioning.h
+file
+
+
+
+add
+
+FormViewController.m
+file
+
+
+
+add
+
+MainPanelViewController.m
+file
+
+
+
+add
+
+CalendarViewController.h
+file
+
+
+
+add
+
+RunViewController.m
+file
+
+
+
+add
+
+GoalsViewController.m
+file
+
+
+
+add
+
+BaseViewController.h
+file
+
+
+
+add
+
+CalendarCell.h
+file
+
+
+
+add
+
+UIView+Positioning.m
+file
+
+
+
+add
+
+GlossyButton.h
+file
+
+
+
+add
+
+CalendarViewController.m
+file
+
+
+
+add
+
+CalendarCell.m
+file
+
+
+
+add
+
+BaseViewController.m
+file
+
+
+
+add
+
+UIColor+MeganColors.h
+file
+
+
+
+add
+
+GlossyButton.m
+file
+
+
+
+add
+
+NSDate+TKCategory.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+UIColor+MeganColors.m
+file
+
+
+
+add
+
+CouchPotatoViewController.h
+file
+
+
+
+add
+
+NSDate+CalendarGrid.h
+file
+
+
+
+add
+
+NSDate+TKCategory.m
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+UIColor+Hex.h
+file
+
+
+
+add
+
+CouchPotatoViewController.m
+file
+
+
+
+add
+
+external
+dir
+
+
+
+add
+
+NSDate+CalendarGrid.m
+file
+
+
+
+add
+
+UIFont+MegansFont.h
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+UIColor+Hex.m
+file
+
+
+
+add
+
+MenuViewController.h
+file
+
+
+
+add
+
+SignUpViewController.h
+file
+
+
+
+add
+
+UIFont+MegansFont.m
+file
+
+
+
+add
+
+UIView-ViewFrameGeometry.h
+file
+
+
+
+add
+
+CalendarDay.h
+file
+
+
+
+add
+
+LoginViewController.h
+file
+
+
+
+add
+
+MenuViewController.m
+file
+
+
+
+add
+
+SignUpViewController.m
+file
+
+
+
+add
+
+NSNumber+Hex.h
+file
+
+
+
+add
+
+Constants.h
+file
+
+
+
+add
+
+CalendarDay.m
+file
+
+
+
+add
+
+LoginViewController.m
+file
+
+
+
+add
+
+UIView-ViewFrameGeometry.m
+file
+
+
+
+add
+
+NSNumber+Hex.m
+file
+
+
+
+add
+
+Default-568h@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+IntroViewController.h
+file
+
+
+
+add
+
+NSCalendarDate-OFExtensions.h
+file
+
+
+
+add
+
+IntroViewController.m
+file
+
+
+
+add
+
+NSCalendarDate-OFExtensions.m
+file
+
+
+
+add
+
+DimSegue.h
+file
+
+
+
+add
+
+fonts
+dir
+
+
+
+add
+
+DimSegue.m
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+CalendarActivity.h
+file
+
+
+
+add
+
+NSDate-Utilities.h
+file
+
+
+
+add
+
+CalendarActivity.m
+file
+
+
+
+add
+
+Week.h
+file
+
+
+
+add
+
+NSDate-Utilities.m
+file
+
+
+
+add
+
+ActivityCell.h
+file
+
+
+
+add
+
+Utils.h
+file
+
+
+
+add
+
+Week.m
+file
+
+
+
+add
+
+ActivityCell.m
+file
+
+
+
+add
+
+MenuCell.h
+file
+
+
+
+add
+
+Utils.m
+file
+
+
+
+add
+
+MenuCell.m
+file
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+UIViewController+NavigationController.h
+file
+
+
+
+add
+
+MarathonMegan-Info.plist
+file
+
+
+
+add
+
+User.h
+file
+
+
+
+add
+
+AppDelegate.m
+file
+
+
+
+add
+
+Parse.framework
+dir
+
+
+
+add
+
+UIViewController+NavigationController.m
+file
+
+
+
+add
+
+Default.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+MainViewController.h
+file
+
+
+
+add
+
+User.m
+file
+
+
+
+add
+
+MainViewController.m
+file
+
+
+
+add
+
